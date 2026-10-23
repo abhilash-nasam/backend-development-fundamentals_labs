@@ -94,7 +94,7 @@ lab-01/
 
 ### 4. 404 Error Route
 
-![404 Error Route](screenshots/not-found.png)
+![404 Error Route](screenshots/404.png)
 
 ## Concepts Learned
 

@@ -1,8 +1,8 @@
 # Lab 3: REST API, Query Parameters, Validation & Debugging
 
-**Name:** Kumbha Geetha Krishna
-**Registration Number:** 252U1R9080
-**Section:** CSE GEN-AI
+**Name:** NASAM ABHILASH
+**Registration Number:** 252U1R9107
+**Section:** CSE GEN-AI-2B
 **Course:** Backend Development Fundamentals
 **Lab Number:** 03
 
@@ -12,8 +12,8 @@
 
 **Platform:** Render
 
-**Live API URL:**
-https://backend-development-labs-1-ho2i.onrender.com/
+**Live API URL:** 
+https://backend-development-fundamentals-1-e17z.onrender.com/
 
 The Book Management REST API is deployed and publicly accessible through Render.
 
@@ -92,7 +92,7 @@ lab-03/
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/geethakrishnakumbha/BACKEND-DEVELOPMENT-LABS.git
+git clone https://github.com/abhilash-nasam/backend-development-fundamentals_labs.git
 ```
 
 ### Step 2: Navigate to Lab 3
@@ -271,7 +271,7 @@ The deployed API is tested using Postman Web.
 **Base URL:**
 
 ```text
-https://backend-development-labs-1-ho2i.onrender.com
+https://backend-development-fundamentals-1-e17z.onrender.com/
 ```
 
 ### Test Cases

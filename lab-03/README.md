@@ -209,10 +209,10 @@ The following fields are required:
 
 ```json
 {
-  "title": "Introduction to Node.js",
-  "author": "Geetha Krishna",
-  "price": 450,
-  "pages": 250
+  "title": "Introduction to java",
+  "author": "Abhilash",
+  "price": 400,
+  "pages": 390
 }
 ```
 
